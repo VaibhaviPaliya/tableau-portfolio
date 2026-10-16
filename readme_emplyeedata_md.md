@@ -8,7 +8,7 @@
 ---
 
 ## 🗂️ Data Sources & Architecture
-* **Dataset Used:** `Section4_Group01.xlsx`
+* **Dataset Used:** `EmployeeData.xlsx`
 * **Data Volume & Granularity:** Granular employee records capturing demographic attributes, tenure, department, salary tiers, performance ratings, and status (active vs. departed).
 * **Data Preparation:**
   * Anonymized sensitive personal identifiers.
@@ -46,5 +46,5 @@
 ---
 
 ## 🚀 How to Interact with This Project
-* **Interactive Workbook:** Download `Section4-Group01-Dashboard.twbx` from the `dashboards/` directory.
-* **Raw Data:** Access `Section4_Group01.xlsx` from the `data/` folder.
+* **Interactive Workbook:** Download `EmployeeData.twbx` from the `DASHBOARDS/` directory.
+* **Raw Data:** Access `EmployeeData.xlsx` from the `DATA/` folder.
