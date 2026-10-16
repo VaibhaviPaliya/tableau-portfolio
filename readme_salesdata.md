@@ -45,5 +45,5 @@
 ---
 
 ## 🚀 How to Interact with This Project
-* **Interactive Workbook:** Download `SalesData.twbx` from the `DASHBOARDS/` directory.
-* **Raw Data:** Access `SalesData.xlsx` from the `DATA/` folder.
+* **Interactive Workbook:** Download `SalesData.twbx`.
+* **Raw Data:** Access `SalesData.xlsx`.
