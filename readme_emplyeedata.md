@@ -46,5 +46,5 @@
 ---
 
 ## 🚀 How to Interact with This Project
-* **Interactive Workbook:** Download `EmployeeData.twbx` from the `DASHBOARDS/` directory.
-* **Raw Data:** Access `EmployeeData.xlsx` from the `DATA/` folder.
+* **Interactive Workbook:** Download `EmployeeData.twbx`.
+* **Raw Data:** Access `EmployeeData.xlsx`.
