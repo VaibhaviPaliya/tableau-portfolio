@@ -45,5 +45,5 @@
 ---
 
 ## 🚀 How to Interact with This Project
-* **Interactive Workbook:** Download `Coffee-Region-Dashboard.twbx` from the `dashboards/` directory.
-* **Raw Data:** Access `Coffee Region.xlsx` from the `data/` folder.
+* **Interactive Workbook:** Download `Coffee-Region-Dashboard.twbx`.
+* **Raw Data:** Access `Coffee Region.xlsx`.
