@@ -8,7 +8,7 @@
 ---
 
 ## 🗂️ Data Sources & Architecture
-* **Dataset Used:** `DM284087 (1).xlsx`
+* **Dataset Used:** `SalesData.xlsx`
 * **Data Volume & Granularity:** Detailed sales order transactional data capturing customer IDs, order dates, ship modes, discount percentages, revenue, and product categories.
 * **Data Preparation:**
   * Cleaned date formats and joined order details with customer segment tables.
@@ -45,5 +45,5 @@
 ---
 
 ## 🚀 How to Interact with This Project
-* **Interactive Workbook:** Download `DM284087-Dashboard.twbx` from the `dashboards/` directory.
-* **Raw Data:** Access `DM284087 (1).xlsx` from the `data/` folder.
+* **Interactive Workbook:** Download `SalesData.twbx` from the `DASHBOARDS/` directory.
+* **Raw Data:** Access `SalesData.xlsx` from the `DATA/` folder.
